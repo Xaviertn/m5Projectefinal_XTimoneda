@@ -1,0 +1,1 @@
+*T’adjunto el paquet model i el  paquet controlador amb el codi auto-generat. La part Vista no la poso, doncs no se com es fa, ja que no m’entra al temari al fer DUAL.
